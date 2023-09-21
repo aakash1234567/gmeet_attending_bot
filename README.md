@@ -22,9 +22,9 @@ Google Meet attending Bot is an automated script to attend google meets, it also
 ## Installation
 
 1. Clone the repo to your local pc
-2. Make suitable changes in script
+2. Make suitable changes in script (Make sure to add web driver and chrome user data directory path which is required to attend gmeet with your id)
 3. Run file
 
 ## Note
 
-- You should have already signed in into your google account.
+- You should have already signed in into your google account. [Provide chrome user data directory path in script]
